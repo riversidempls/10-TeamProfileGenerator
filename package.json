@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/riversidempls/10-TeamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/riversidempls/10-TeamProfileGenerator#readme"
+  "homepage": "https://github.com/riversidempls/10-TeamProfileGenerator#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
