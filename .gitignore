@@ -80,7 +80,9 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# Commented out dist below so that Git will track this folder and include it 
+# when I push up to my application's repository.
+# dist
 
 # Gatsby files
 .cache/
